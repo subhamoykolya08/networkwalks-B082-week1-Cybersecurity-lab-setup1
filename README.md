@@ -150,7 +150,8 @@ The environment was prepared as a controlled virtual machine for cybersecurity l
 
 ### Screenshot
 
-![Kali Linux Environment](screenshots/02-kali-linux-environment.png)
+![Kali Linux Environment]<img width="1919" height="1079" alt="Screenshot 2026-08-14 004458" src="https://github.com/user-attachments/assets/93c1a25a-572f-4ae4-96b5-3fb90cde7740" />
+
 
 ### Result
 
@@ -177,7 +178,8 @@ The configuration was performed through the Kali Linux network settings.
 
 ### Screenshot
 
-![Kali Linux IPv4 Configuration](screenshots/03-kali-ipv4-configuration.png)
+![Kali Linux IPv4 Configuration]<img width="1919" height="1079" alt="Screenshot 2026-08-14 004527" src="https://github.com/user-attachments/assets/f0e48f8b-06b0-40bf-bb64-a1c8d16835ce" />
+
 
 ### Result
 
@@ -202,7 +204,8 @@ This provides a private virtual network environment for the Kali Linux laborator
 
 ### Screenshot
 
-![NAT Network Configuration](screenshots/04-nat-network-configuration.png)
+![NAT Network Configuration]<img width="1919" height="1079" alt="Screenshot 2026-08-14 004412" src="https://github.com/user-attachments/assets/72d31b01-3d19-4ccf-8091-bd650c33c37b" />
+
 
 ### Result
 
@@ -224,7 +227,8 @@ The successful ICMP responses confirmed that the Kali Linux virtual machine had 
 
 ### Screenshot
 
-![Network Connectivity Test](screenshots/05-network-connectivity-test.png)
+![Network Connectivity Test]<img width="1919" height="1079" alt="Screenshot 2026-08-14 004555" src="https://github.com/user-attachments/assets/738d9a2a-14f8-48ba-9989-63e3fc4812b5" />
+
 
 ### Result
 
@@ -258,7 +262,8 @@ These tools will be explored in greater detail during subsequent cybersecurity l
 
 ### Screenshot
 
-![Kali Linux Security Tools](screenshots/06-kali-security-tools.png)
+![Kali Linux Security Tools]<img width="1919" height="1079" alt="Screenshot 2026-08-14 004625" src="https://github.com/user-attachments/assets/49beb08c-57ec-4109-8c77-9c757cbdb927" />
+
 
 ### Result
 
@@ -407,35 +412,7 @@ into their corresponding IP addresses.
 
 ---
 
-# 📸 Project Screenshots
 
-All screenshots included in this repository are from my own Week 1 cybersecurity laboratory setup.
-
-### VirtualBox Kali VM
-
-![VirtualBox Kali VM](screenshots/01-virtualbox-kali-vm.png)
-
-### Kali Linux Environment
-
-![Kali Linux Environment](screenshots/02-kali-linux-environment.png)
-
-### IPv4 Network Configuration
-
-![IPv4 Configuration](screenshots/03-kali-ipv4-configuration.png)
-
-### NAT Network
-
-![NAT Network](screenshots/04-nat-network-configuration.png)
-
-### Connectivity Test
-
-![Connectivity Test](screenshots/05-network-connectivity-test.png)
-
-### Kali Security Tools
-
-![Kali Security Tools](screenshots/06-kali-security-tools.png)
-
----
 
 # 🔐 Security & Ethics
 
