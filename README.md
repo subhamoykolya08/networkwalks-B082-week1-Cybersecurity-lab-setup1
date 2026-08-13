@@ -131,7 +131,7 @@ A Kali Linux virtual machine named **`kali machine`** was configured with:
 
 ### Screenshot
 
-![Oracle VirtualBox Kali Linux VM](Screenshot 2026-08-14 005714.png)<img width="1919" height="1079" alt="Screenshot 2026-08-14 004345" src="https://github.com/user-attachments/assets/6031eab9-f448-4c78-81f4-3e7852deec58" />
+![Oracle VirtualBox Kali Linux VM]<img width="1919" height="1079" alt="Screenshot 2026-08-14 004345" src="https://github.com/user-attachments/assets/6031eab9-f448-4c78-81f4-3e7852deec58" />
 
 
 ### Result
